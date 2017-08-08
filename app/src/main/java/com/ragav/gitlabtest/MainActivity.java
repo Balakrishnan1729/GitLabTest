@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        System.out.println("Bala Test GitLab");
+        System.out.println("Bala Test GitLab 123");
     }
 }
